@@ -1,6 +1,6 @@
 void main() {
   //EXERCISE 1
-  //You have 2.5 dolors and you wanna buy the bag but cost of the bag is 5.5 dolors
+  //You have 2.5 dolars and you wanna buy the bag but cost of the bag is 5.5 dolors
   //You decided to want money from your father and you done . You have 6 dolors
   //l wanna know how much money do you have left?
 
@@ -37,6 +37,8 @@ void main() {
   //You must know what is your type of list
   //You have to select 3. and 5. index in your list
   //You can  select Ali and Neymet then you have to know what is length of Neymet
+
+
 
   // EXERCISE 4
   //There is a person and he wanna join your list
